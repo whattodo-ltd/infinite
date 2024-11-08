@@ -596,7 +596,13 @@
                 <a href="mailto:#0" class="btn h-full-width">Let's Talk</a>
 
                 <div class="ss-copyright">
-                    <span>Copyright Infinite Technologies 2020</span> 
+                    <span id="copyright"></span>
+                    <script>
+                        document.addEventListener("DOMContentLoaded", function() {
+                            const year = new Date().getFullYear();
+                            document.getElementById("copyright").textContent = `Copyright Infinite Technologies ${year}`;
+                        });
+                    </script>
                     <span>Design by <a href="https://www.styleshout.com/">StyleShout</a> Distribution By <a href="https://themewagon.com">ThemeWagon</a></span>
                 </div>
             </div>
