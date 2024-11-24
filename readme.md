@@ -1,3 +1,4 @@
+<p align="center"><img src="https://github.com/user-attachments/assets/1da74e3f-3f0b-46a1-8d73-51802cbbc491" width="400" alt="AfroInvoices Logo"></p>
 =====================================================================================
 
 DESCRIPTION:
