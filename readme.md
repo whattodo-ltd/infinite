@@ -1,4 +1,4 @@
-==================================================================================================
+=====================================================================================
 
 DESCRIPTION:
 
@@ -8,7 +8,7 @@ ability to deliver sophisticated, modern solutions that help businesses thrive i
 The clean, professional design reflects our dedication to quality and attention to detail in 
 everything we do.
 
-==================================================================================================
+=====================================================================================
 
 
 LICENSE:
